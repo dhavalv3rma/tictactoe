@@ -81,3 +81,8 @@ function check() {
 
     }
 }
+
+
+$("#reset").click(function () {
+    location.reload();
+})
