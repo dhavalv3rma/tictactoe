@@ -77,7 +77,7 @@ function check() {
 
     /*  WIN CONDITION   */
     function wins(a) {
-        $("#result").text(a + 'Momo Wins');
+        $("#result").text(a + ' Momo Wins ');
         $('.parts').prop("disabled", true);
     }
 }
