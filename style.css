@@ -1,12 +1,17 @@
+html,
 body {
     text-align: center;
     background-color: #282828;
     font-family: "Oswald";
-    padding: 150px;
+    height: 100%;
+}
+
+.container {
+    height: 100%
 }
 
 .parts {
-    background:#ffffff;
+    background: #ffffff;
     width: 40px;
     height: 40px;
     padding: 1px;
